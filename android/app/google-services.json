@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "389945035501",
+    "project_id": "monkey-chat-e49cf",
+    "storage_bucket": "monkey-chat-e49cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389945035501:android:183cc8797ccd0f9de41ae4",
+        "android_client_info": {
+          "package_name": "com.example.chat_messager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389945035501-g0db7acq273t93m97a84rmu1toql40gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa9nseG31zpgoqj7jF0j_KvtF-CjbUZtc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389945035501-g0db7acq273t93m97a84rmu1toql40gk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "389945035501-gkofrjub9vupmbbkkj34fs4nff91l6kp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatMessager"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
